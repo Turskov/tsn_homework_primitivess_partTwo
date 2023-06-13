@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Ваша итоговая сумма составит: " +
                 (phoneBalance + (cash + ((cash * present) / 100))));
 
+
     }
 }
